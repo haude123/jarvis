@@ -1,0 +1,9 @@
+First step->
+1) create virtual env
+2) install package(pip install speechrecognition pyaudio)
+3)pip install setuptools
+4) pip install pyttsx3
+5)  pip install pocketsphinx
+6) pip install openai
+7)  pip install gtts
+8)  pip install pygame
